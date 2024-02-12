@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cabin', sans-serif;
+
+}
+
+.navbar-brand,
+.nombre-logo {
+    font-family: 'Lobster', sans-serif;
+}
+
+.principal-text {
+    font-size: 40px;
+
+}
+
+.card {
+    cursor: pointer;
+}
+
+.card-content {
+    display: none;
+
+}
+
+.footer-news {
+    width: 100%;
+    background: #dc3545;
+    height: 450px;
+}
+
+.footer--text {
+    max-width: 900px;
+    margin: auto;
+    padding: 90px 20px;
+    text-align: center;
+    color: #dddddd;
+}
+
+.footer--text button {
+    width: 150px;
+    height: 40px;
+    background: #dc3545;
+    color: #fff;
+
+}
+
+.footer--logo {
+    background: #000000;
+    color: #dddddd;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.footer--logo p {
+    font-family: 'Lobster', sans-serif;
+    font-size: 30px;
+}
